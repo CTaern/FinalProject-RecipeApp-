@@ -21,7 +21,7 @@ public class Recipe {
     public String license;
     public String sourceName;
     public double pricePerServing;
-    public ArrayList<ExtentedIngredient> extendedIngredients;
+    public ArrayList<ExtendedIngredient> extendedIngredients;
     public int id;
     public String title;
     public int readyInMinutes;
